@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Roberto+Lucas+;I'm+23+years+old;I+from+Brasil,+CE;I+have+a+degree+in+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-  
 ### Contact:
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
   ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)&nbsp;
