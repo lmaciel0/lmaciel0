@@ -2,10 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Roberto+Lucas+;I'm+23+years+old;I+from+Brasil,+CE;I+have+a+degree+in+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ### Contact:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
+
 <a href="https://api.whatsapp.com/send?phone=85999027198&text=Olá,%20gostaria%20de%20iniciar%20uma%20conversa%20com%20você." target="_blank">
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-</a>&nbsp;
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
+</a>
+
+&nbsp;![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
   
 ### Main skills:
