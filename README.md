@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 23 anos. Desenvolvo aplicações com **Java + Spring Boot** no backend e **React + TypeScript** no frontend, e uso **Python** para automatizar tarefas e processar dados, como extração de PDFs e geração de planilhas.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desenvolvo aplicações com **Java + Spring Boot** no backend e **React + TypeScript** no frontend, e uso **Python** para automatizar tarefas e processar dados, como extração de PDFs e geração de planilhas.
 
 - 🔭 Hoje trabalho em ferramentas que automatizam processos do dia a dia
 - 🌱 Estou estudando Python e Node.js
