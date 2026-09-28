@@ -45,21 +45,14 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desen
 | [Identificador de Agência](https://github.com/lmaciel0/meus_projetos/tree/main/java/Identificador%20de%20agencia%20bancaria) | Aplicação web que cruza arquivos posicionais (`.txt`) e valida agências bancárias a partir de códigos NIB. | Java 21, Spring Boot, React, TypeScript, Tailwind |
 | [Leitor de Desligamentos (Java + React)](https://github.com/lmaciel0/meus_projetos/tree/main/java/extrator-desligamentos-cartao-mais-infancia) | Extrai, revisa e exporta para XLSX/CSV os dados de formulários PDF, com OCR quando o PDF é digitalizado. | Java, Spring Boot, PDFBox, Tesseract, React |
 
-<div align="center">
-
-<a href="https://github.com/lmaciel0/corretor-de-textos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lmaciel0&repo=corretor-de-textos&theme=tokyonight&hide_border=true&locale=pt-br" alt="Repositório corretor-de-textos"/></a>
-<a href="https://github.com/lmaciel0/meus_projetos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lmaciel0&repo=meus_projetos&theme=tokyonight&hide_border=true&locale=pt-br" alt="Repositório meus_projetos"/></a>
-
-</div>
-
 Outros projetos menores ficam no repositório [meus_projetos](https://github.com/lmaciel0/meus_projetos).
 
 ## 📊 Estatísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lmaciel0&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmaciel0&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
+<img height="165" src="https://raw.githubusercontent.com/lmaciel0/lmaciel0/metricas/estatisticas.svg" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://raw.githubusercontent.com/lmaciel0/lmaciel0/metricas/linguagens.svg" alt="Linguagens mais usadas"/>
 
 <img src="https://streak-stats.demolab.com?user=lmaciel0&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 
