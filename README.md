@@ -41,9 +41,18 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desen
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
+| [Corretor de Textos](https://github.com/lmaciel0/corretor-de-textos) | Revisor de textos de ficção em português que roda 100% offline: corrige com LanguageTool ou uma IA local (Ollama), aceita Word e PDF e tem dicionário pessoal. Com testes automatizados no GitHub Actions. | Python, Streamlit, SQLite, Ollama |
 | [Identificador de Agência](https://github.com/lmaciel0/meus_projetos/tree/main/java/Identificador%20de%20agencia%20bancaria) | Aplicação web que cruza arquivos posicionais (`.txt`) e valida agências bancárias a partir de códigos NIB. | Java 21, Spring Boot, React, TypeScript, Tailwind |
 | [Leitor de Desligamentos (Java + React)](https://github.com/lmaciel0/leitor-de-desligamentos) | Extrai, revisa e exporta para XLSX/CSV os dados de formulários PDF, com OCR quando o PDF é digitalizado. | Java, Spring Boot, PDFBox, Tesseract, React |
-| [Corretor de Textos](https://github.com/lmaciel0/corretor-de-textos) | Revisor de textos em português que roda offline, com LanguageTool ou uma IA local via Ollama. | Python, Streamlit, SQLite, Ollama |
+
+<div align="center">
+
+<a href="https://github.com/lmaciel0/corretor-de-textos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lmaciel0&repo=corretor-de-textos&theme=tokyonight&hide_border=true&locale=pt-br" alt="Repositório corretor-de-textos"/></a>
+<a href="https://github.com/lmaciel0/meus_projetos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lmaciel0&repo=meus_projetos&theme=tokyonight&hide_border=true&locale=pt-br" alt="Repositório meus_projetos"/></a>
+
+</div>
+
+Outros projetos menores ficam no repositório [meus_projetos](https://github.com/lmaciel0/meus_projetos).
 
 ## 📊 Estatísticas
 
