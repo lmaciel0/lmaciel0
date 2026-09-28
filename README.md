@@ -43,7 +43,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desen
 | --- | --- | --- |
 | [Identificador de Agência](https://github.com/lmaciel0/meus_projetos/tree/main/java/Identificador%20de%20agencia%20bancaria) | Aplicação web que cruza arquivos posicionais (`.txt`) e valida agências bancárias a partir de códigos NIB. | Java 21, Spring Boot, React, TypeScript, Tailwind |
 | [Leitor de Desligamentos (Java + React)](https://github.com/lmaciel0/leitor-de-desligamentos) | Extrai, revisa e exporta para XLSX/CSV os dados de formulários PDF, com OCR quando o PDF é digitalizado. | Java, Spring Boot, PDFBox, Tesseract, React |
-| [Corretor de Textos](https://github.com/lmaciel0/meus_projetos/tree/main/Python/corretor-ortografico) | Revisor de textos em português que roda offline, com LanguageTool ou uma IA local via Ollama. | Python, Streamlit, SQLite, Ollama |
+| [Corretor de Textos](https://github.com/lmaciel0/corretor-de-textos) | Revisor de textos em português que roda offline, com LanguageTool ou uma IA local via Ollama. | Python, Streamlit, SQLite, Ollama |
 
 ## 📊 Estatísticas
 
