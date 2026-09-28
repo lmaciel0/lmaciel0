@@ -42,8 +42,8 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desen
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
 | [Corretor de Textos](https://github.com/lmaciel0/corretor-de-textos) | Revisor de textos de ficção em português que roda 100% offline: corrige com LanguageTool ou uma IA local (Ollama), aceita Word e PDF e tem dicionário pessoal. Com testes automatizados no GitHub Actions. | Python, Streamlit, SQLite, Ollama |
+| [Leitor de Desligamentos](https://github.com/lmaciel0/leitor-de-desligamentos) | Lê vários formulários PDF de uma vez, extrai os campos para uma tabela editável, marca o que precisa de revisão e exporta para XLSX/CSV. Usa OCR quando o PDF é digitalizado e roda 100% local. Com testes automatizados no GitHub Actions. | Java 21, Spring Boot, PDFBox, Tesseract, React, TypeScript |
 | [Identificador de Agência](https://github.com/lmaciel0/meus_projetos/tree/main/java/Identificador%20de%20agencia%20bancaria) | Aplicação web que cruza arquivos posicionais (`.txt`) e valida agências bancárias a partir de códigos NIB. | Java 21, Spring Boot, React, TypeScript, Tailwind |
-| [Leitor de Desligamentos](https://github.com/lmaciel0/leitor-de-desligamentos) | Extrai, revisa e exporta para XLSX/CSV os dados de formulários PDF, com OCR quando o PDF é digitalizado. | Java, Spring Boot, PDFBox, Tesseract, React |
 
 Outros projetos menores ficam no repositório [meus_projetos](https://github.com/lmaciel0/meus_projetos).
 
