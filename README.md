@@ -17,8 +17,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desen
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/roberto-lucas-maciel-de-mendon%C3%A7a)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmaciel900@gmail.com)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=85999027198&text=Ol%C3%A1,%20gostaria%20de%20iniciar%20uma%20conversa%20com%20voc%C3%AA.)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmaciel900@gmail.com)
 
 ## 🛠️ Tecnologias
 
