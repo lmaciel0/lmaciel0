@@ -48,7 +48,7 @@ def coletar(token: str, usuario: str) -> dict:
             contributionsCollection { contributionYears }
             pullRequests { totalCount }
             issues { totalCount }
-            repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST, ISSUE]) { totalCount }
+            repositoriesContributedTo(includeUserRepositories: true, contributionTypes: [COMMIT, PULL_REQUEST, ISSUE, REPOSITORY]) { totalCount }
             repositories(first: 100, ownerAffiliations: OWNER, privacy: PUBLIC, isFork: false) {
               nodes {
                 stargazerCount
@@ -111,7 +111,7 @@ def card_estatisticas(dados: dict) -> str:
         ("Total de commits", dados["commits"]),
         ("Total de PRs", dados["prs"]),
         ("Total de issues", dados["issues"]),
-        ("Contribuiu em (repos)", dados["contribuiu"]),
+        ("Repos com contribuição", dados["contribuiu"]),
     ]
     partes = []
     for i, (rotulo, valor) in enumerate(linhas):
