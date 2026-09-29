@@ -31,7 +31,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desen
 
 **Ferramentas**
 
-[![Ferramentas](https://skillicons.dev/icons?i=git,github,linux,idea,vscode)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,docker,linux,idea,vscode)](https://skillicons.dev)
 
 **Estudando agora**
 
@@ -41,6 +41,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desen
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
+| [ticket-flow](https://github.com/lmaciel0/ticket-flow) · [**demo online**](https://ticket-flow-web.onrender.com) | Sistema de chamados (help desk) com três perfis (solicitante, atendente e gestor), SLA por prioridade que pausa enquanto aguarda o cliente, anexos, histórico e painel com gráficos. API testada com PostgreSQL real (Testcontainers), CI no GitHub Actions e deploy de custo zero descrito como código. | Java 21, Spring Boot, PostgreSQL, React, TypeScript, Docker |
 | [Corretor de Textos](https://github.com/lmaciel0/corretor-de-textos) | Revisor de textos de ficção em português que roda 100% offline: corrige com LanguageTool ou uma IA local (Ollama), aceita Word e PDF e tem dicionário pessoal. Com testes automatizados no GitHub Actions. | Python, Streamlit, SQLite, Ollama |
 | [Leitor de Desligamentos](https://github.com/lmaciel0/leitor-de-desligamentos) | Lê vários formulários PDF de uma vez, extrai os campos para uma tabela editável, marca o que precisa de revisão e exporta para XLSX/CSV. Usa OCR quando o PDF é digitalizado e roda 100% local. Com testes automatizados no GitHub Actions. | Java 21, Spring Boot, PDFBox, Tesseract, React, TypeScript |
 | [Identificador de Agência](https://github.com/lmaciel0/meus_projetos/tree/main/java/Identificador%20de%20agencia%20bancaria) | Aplicação web que cruza arquivos posicionais (`.txt`) e valida agências bancárias a partir de códigos NIB. | Java 21, Spring Boot, React, TypeScript, Tailwind |
