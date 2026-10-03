@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="165" viewBox="0 0 400 165" role="img" aria-label="Estatísticas do GitHub">
+  <style>
+    .titulo { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
+    .rotulo { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+    .valor { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+    .lang { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+  </style>
+  <rect width="400" height="165" rx="4.5" fill="#1a1b27"/>
+  <text x="25" y="35" class="titulo">Estatísticas do GitHub</text>
+  <circle cx="31" cy="57" r="4" fill="#bf91f3"/>
+  <text x="45" y="62" class="rotulo">Total de estrelas:</text>
+  <text x="250" y="62" class="valor">0</text>
+  <circle cx="31" cy="78" r="4" fill="#bf91f3"/>
+  <text x="45" y="83" class="rotulo">Total de commits:</text>
+  <text x="250" y="83" class="valor">199</text>
+  <circle cx="31" cy="99" r="4" fill="#bf91f3"/>
+  <text x="45" y="104" class="rotulo">Total de PRs:</text>
+  <text x="250" y="104" class="valor">51</text>
+  <circle cx="31" cy="120" r="4" fill="#bf91f3"/>
+  <text x="45" y="125" class="rotulo">Total de issues:</text>
+  <text x="250" y="125" class="valor">0</text>
+  <circle cx="31" cy="141" r="4" fill="#bf91f3"/>
+  <text x="45" y="146" class="rotulo">Repos com contribuição:</text>
+  <text x="250" y="146" class="valor">5</text>
+</svg>
