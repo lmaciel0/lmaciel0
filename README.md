@@ -21,17 +21,17 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desen
 
 ## 🛠️ Tecnologias
 
-**Backend**
+**Backend e dados**
 
-[![Backend](https://skillicons.dev/icons?i=java,spring,maven,postgres)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring,maven,postgres,supabase)](https://skillicons.dev)
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,bootstrap,sass)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,vite,tailwind,bootstrap,sass,threejs)](https://skillicons.dev)
 
 **Ferramentas**
 
-[![Ferramentas](https://skillicons.dev/icons?i=git,github,docker,linux,idea,vscode)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,docker,vercel,linux,idea,vscode)](https://skillicons.dev)
 
 **Estudando agora**
 
@@ -45,9 +45,10 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desen
 | [R-Fleet](https://github.com/lmaciel0/R-Fleet) | Sistema de gestão de veículos em oficina (mecânica e funilaria) que substitui planilhas com macros: quadro Kanban de 7 etapas, alerta de SLA por dias no pátio, linha do tempo de auditoria imutável, faturamento, dashboard executivo, importação da planilha antiga e exportação para XLSX/CSV. 67 testes automatizados e deploy de custo zero descrito como código. | Java 21, Spring Boot, PostgreSQL, React, TypeScript, Tailwind, Docker |
 | [Corretor de Textos](https://github.com/lmaciel0/corretor-de-textos) | Revisor de textos de ficção em português que roda 100% offline: corrige com LanguageTool ou uma IA local (Ollama), aceita Word e PDF e tem dicionário pessoal. Com testes automatizados no GitHub Actions. | Python, Streamlit, SQLite, Ollama |
 | [Leitor de Desligamentos](https://github.com/lmaciel0/leitor-de-desligamentos) | Lê vários formulários PDF de uma vez, extrai os campos para uma tabela editável, marca o que precisa de revisão e exporta para XLSX/CSV. Usa OCR quando o PDF é digitalizado e roda 100% local. Com testes automatizados no GitHub Actions. | Java 21, Spring Boot, PDFBox, Tesseract, React, TypeScript |
-| [Identificador de Agência](https://github.com/lmaciel0/meus_projetos/tree/main/java/Identificador%20de%20agencia%20bancaria) | Aplicação web que cruza arquivos posicionais (`.txt`) e valida agências bancárias a partir de códigos NIB. | Java 21, Spring Boot, React, TypeScript, Tailwind |
+| [Arcade Hub](https://github.com/lmaciel0/flow-games) · [**demo online**](https://flow-games-tau.vercel.app) | Sete jogos em HTML, CSS e JavaScript puros, sem build e sem framework: Jogo da Velha com IA minimax, 2048, Snake, Campo Minado, Tetris, Termo e o Block Strike, um FPS 5x5 em 3D contra bots. Contas opcionais com progresso entre aparelhos e placar compartilhado (Supabase com RLS). | JavaScript, Three.js, Canvas, Web Audio, Supabase |
+| [ReadmeCraft](https://github.com/lmaciel0/ReadmeCraft) | Gerador de README para o GitHub: analisa um repositório público (ou uma pasta local), gera o texto com a API do Claude em streaming ou por templates offline, com comandos derivados dos manifestos para evitar alucinação. Editor com preview fiel ao GitHub, banner em SVG, histórico de versões e publicação via Pull Request. Com CI no GitHub Actions. | TypeScript, React, Vite, Tailwind, Hono, Claude API |
 
-Outros projetos menores ficam no repositório [meus_projetos](https://github.com/lmaciel0/meus_projetos).
+Outros projetos menores ficam no repositório [meus_projetos](https://github.com/lmaciel0/meus_projetos), como o [Identificador de Agência](https://github.com/lmaciel0/meus_projetos/tree/main/java/Identificador%20de%20agencia%20bancaria), que cruza arquivos posicionais (`.txt`) e valida agências bancárias a partir de códigos NIB.
 
 ## 📊 Estatísticas
 
