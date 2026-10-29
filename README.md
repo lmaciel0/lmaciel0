@@ -12,7 +12,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho 26 anos. Desen
 
 - 🔭 Hoje trabalho em ferramentas que automatizam processos do dia a dia
 - 🌱 Estou estudando Python e Node.js
-- 💼 Estou aberto a oportunidades como desenvolvedor
 
 ## 📫 Contato
 
